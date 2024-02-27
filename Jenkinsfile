@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.component = "ctalogue"
+env.component = "catalogue"
 env.lang = "nodejs"
 
 ci()
